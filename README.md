@@ -7,9 +7,7 @@ Welcome to the Ethical Hacking Toolkit project! This repository hosts a curated 
 This project requires Python 3.11. To get started, follow the steps below:
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-   ```
-  git clone <repository_url>
-  ```
+   ```git clone <repository_url>```
 
 3. **Set Up Virtual Environment:**
 
